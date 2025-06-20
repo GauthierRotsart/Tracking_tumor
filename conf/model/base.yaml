@@ -1,0 +1,7 @@
+params:
+  dropout: 0.1
+  layer: 6
+  embedding_size: 512
+  neuron: 2048
+  mha: 8
+  rang: 0

@@ -1,0 +1,14 @@
+params:
+  batch_size: 16
+  learning_rate: 5e-5
+  epoch: 100
+  width: 64
+  height: 64
+  patch_size: 16
+  img_sequence: 16
+  output_dimension: 3
+  horizon: 5
+  regularity: Regular
+  warmup: 10
+  strategy: T1
+  load_weights: False

@@ -1,0 +1,5 @@
+params:
+  epoch: 100
+  strategy: 'T1'
+  patient: 0
+  test_part: T1

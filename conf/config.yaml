@@ -1,0 +1,15 @@
+defaults:
+  - model: base
+  - training: base
+  - inference: base
+  - _self_
+
+mask: False
+seed: 1
+device: 0
+patient: 0
+multi: False
+data_quantity: 0
+intra: 0
+
+
